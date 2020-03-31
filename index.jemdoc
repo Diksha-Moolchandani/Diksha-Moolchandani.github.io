@@ -1,0 +1,57 @@
+# jemdoc: menu{MENU}{example.html}
+= Diksha Moolchandani 
+
+~~~
+{}{img_left}{pic1.jpg}{alt text}{200px}{200px}{pic1.jpg}
+=== Ph.D. Student, [http://www.iitd.ac.in/ IIT Delhi] \n
+I am a Ph.D. student in [http://www.sit.iitd.ac.in/ SIT department] at IIT Delhi. I am working on novel architectures for vision and image processing 
+under the guidance of [http://www.cse.iitd.ac.in/~srsarangi/ Prof. Smruti Ranjan Sarangi] and [http://www.cse.iitd.ernet.in/~anshul/ Prof. Anshul Kumar]. 
+Before joining Ph.D., I worked as a Project Associate with [http://www.cse.iitd.ernet.in/~kolin/Kolins_Web_Home/My_Home.html Prof. Kolin Paul] 
+and [http://www.cse.iitd.ernet.in/~anshul/ Prof. Anshul Kumar] at IIT Delhi. I completed my B.Tech. from [http://www.iiitdmj.ac.in/ IIIT Jabalpur] in 2015, 
+with a majors in [http://ece.iiitdmj.ac.in/index.html Electronics and Communication Engineering]. I did my B.Tech. project at [http://www.barc.gov.in/ BARC Mumbai], 
+where I was advised by [https://www.linkedin.com/in/abhisheietk/ Mr. Abhishek Bajpai] and Mr. Saket Saurav.
+\n\n
+
+Contact me via email: diksha.moolchandani@cse.iitd.ac.in
+\n\n
+Here is my [resume_Diksha.pdf Resume].
+~~~
+
+== Publications
+- "Performance Prediction for Multi-Application Concurrency on GPUs" \n
+   *Diksha Moolchandani*, Sudhanshu Gupta, Anshul Kumar, and Smruti R. Sarangi.  \n
+   International Symposium on Performance Analysis of Systems and Software (ISPASS), 2020. Boston, USA. (accepted)
+
+- "A Machine to Machine framework for the charging of Electric Autonomous Vehicles" \n 
+   Ziyad Elbanna, Ilya Afanasyev, Luiz Jonata, Rasheed Hussain, Mansur Khazeev, Joseph Lamptey, Manuel Mazzara, Swati Megha, *Diksha Moolchandani*, and Dragos Strugar. \n
+   The Workshops of the IEEE  International  Conference  on  Advanced  Information  Networking  and  Applications (WAINA), 2020. Caserta, Italy. (accepted) \[[m2m_aina.pdf Author Version]\]
+
+
+- "F-LaaS: A Control-Flow-Attack Immune License-as-a-Service Model" \n
+   Sandeep Kumar, *Diksha Moolchandani*, Takatsugu Ono and Smruti Sarangi. \n
+   IEEE Services Computing Conference (SCC), 2019. Milan, Italy. \[[flaas_scc19.pdf Author Version]\]
+
+== Internships
+- *Scholarship with short stay:  Ph.D. young researcher*    (Sep-Nov 2019)\n
+  /Innopolis University, Republic of Tatarstan, Russia/
+
+- *Project Associate*                                       (Jun-Dec 2015)\n
+  /IIT Delhi, India/
+
+- *Project Based Internship*                                (May-Dec 2014) \n
+  /Bhabha Atomic Research Centre Mumbai (BARC Mumbai, India)/
+
+#== Workshop Papers
+#- *Diksha Moolchandani*, Jayant Sharma, Abhishek Bajpai and Saket Saurav. "FPGA Cluster Based High Throughput Architecture for
+#Cryptography and Cryptanalysis" National Workshop on Cryptology 2014.\n 
+#\[[FPGA_based_High_Throughput_architecture_for_cryptography_and_cryptanalysis.pdf Pdf]\]  
+
+== Research Software
+- [http://www.cse.iitd.ac.in/tejas/install.html Tejas Power Pack]
+
+== Projects
+- [multimedia_array_onFPGA.pdf Super Resolution on Reconfigurable Arrays]
+- [FPGA_Cluster.pdf FPGA Cluster based parallel architecture for Cryptanalysis]
+- [GROUP-3_design_report.pdf Flood Alert and Rescue System]
+
+
