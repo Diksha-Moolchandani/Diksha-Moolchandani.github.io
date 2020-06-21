@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{pic1.jpg}{alt text}{200px}{200px}{pic1.jpg}
 === Ph.D. Student, [http://www.iitd.ac.in/ IIT Delhi] \n
-I am a Ph.D. student in [http://www.sit.iitd.ac.in/ SIT department] at [https://home.iitd.ac.in/ IIT Delhi]. I am working on novel architectures for vision and image processing 
+I am a Ph.D. student in [http://www.sit.iitd.ac.in/ SIT department] at IIT Delhi. I am working on novel architectures for vision and image processing 
 under the guidance of [http://www.cse.iitd.ac.in/~srsarangi/ Prof. Smruti Ranjan Sarangi] and [http://www.cse.iitd.ernet.in/~anshul/ Prof. Anshul Kumar]. 
 Before joining Ph.D., I worked as a Project Associate with [http://www.cse.iitd.ernet.in/~kolin/Kolins_Web_Home/My_Home.html Prof. Kolin Paul] 
 and [http://www.cse.iitd.ernet.in/~anshul/ Prof. Anshul Kumar] at IIT Delhi. I completed my Bachelors from [http://www.iiitdmj.ac.in/ IIIT Jabalpur] in 2015, 
@@ -25,12 +25,12 @@ Here is my [resume_Diksha.pdf Resume].
 
 - "A Machine to Machine framework for the charging of Electric Autonomous Vehicles" \n 
    Ziyad Elbanna, Ilya Afanasyev, Luiz Jonata, Rasheed Hussain, Mansur Khazeev, Joseph Lamptey, Manuel Mazzara, Swati Megha, *Diksha Moolchandani*, and Dragos Strugar. \n
-   The Workshops of the IEEE  International  Conference  on  Advanced  Information  Networking  and  Applications (WAINA), 2020. Caserta, Italy. \[[m2m_aina.pdf Author's Version]\]
+   The Workshops of the IEEE  International  Conference  on  Advanced  Information  Networking  and  Applications (WAINA), 2020. Caserta, Italy. \[[files/papers/m2m_aina.pdf Author's Version]\]
 
 
 - "F-LaaS: A Control-Flow-Attack Immune License-as-a-Service Model" \n
    Sandeep Kumar, *Diksha Moolchandani*, Takatsugu Ono and Smruti Sarangi. \n
-   IEEE Services Computing Conference (SCC), 2019. Milan, Italy. \[[flaas_scc19.pdf Author's Version]\]
+   IEEE Services Computing Conference (SCC), 2019. Milan, Italy. \[[files/papers/flaas_scc19.pdf Author's Version]\]
 
 == Internships
 - *Scholarship with short stay:  Ph.D. young researcher*    (Sep.-Nov. 2019)\n
@@ -62,14 +62,14 @@ Here is my [resume_Diksha.pdf Resume].
 #== Workshop Papers
 #- *Diksha Moolchandani*, Jayant Sharma, Abhishek Bajpai and Saket Saurav. "FPGA Cluster Based High Throughput Architecture for
 #Cryptography and Cryptanalysis" National Workshop on Cryptology 2014.\n 
-#\[[FPGA_based_High_Throughput_architecture_for_cryptography_and_cryptanalysis.pdf Pdf]\]  
+#\[[files/projects/FPGA_based_High_Throughput_architecture_for_cryptography_and_cryptanalysis.pdf Pdf]\]  
 
 == Research Software
 - [http://www.cse.iitd.ac.in/tejas/install.html Tejas Power Pack]
 
 == Projects
-- [multimedia_array_onFPGA.pdf Super Resolution on Reconfigurable Arrays]
-- [FPGA_Cluster.pdf FPGA Cluster based parallel architecture for Cryptanalysis]
-- [GROUP-3_design_report.pdf Flood Alert and Rescue System]
+- [files/projects/multimedia_array_onFPGA.pdf Super Resolution on Reconfigurable Arrays]
+- [files/projects/FPGA_Cluster.pdf FPGA Cluster based parallel architecture for Cryptanalysis]
+- [files/projects/GROUP-3_design_report.pdf Flood Alert and Rescue System]
 
 
