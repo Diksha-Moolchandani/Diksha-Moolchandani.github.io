@@ -21,26 +21,26 @@ Here is my [resume_Diksha.pdf Resume].
 == Publications
 - "Accelerating CNN Inference on ASICs: A Survey" \n
    *Diksha Moolchandani*, Anshul Kumar, and Smruti R. Sarangi.  \n
-   Elsevier Journal of Systems Architecture (JSA) 2020 (accepted)
+   Elsevier Journal of Systems Architecture (JSA) 2020 \[[files/papers/cnn_survey.pdf PDF]\]
 
 
 - "VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors" \n
    *Diksha Moolchandani*, Anshul Kumar, José Martínez, Smruti R. Sarangi. \n
    Presented as a poster in DAC 2020 \[[https://www.facebook.com/diksha.moolchandani/videos/2616061841985521 video]\]\[[files/papers/dac_diksha.pdf slides]\] \n
-   Full paper accepted in ESWEEK CASES 2020, and to be published in IEEE International Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2020 \[[files/papers/diksha_tcad.pdf Author's Version]\]
+   Full paper accepted in ESWEEK CASES 2020, and to be published in IEEE International Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2020 \[[files/papers/vissched.pdf PDF]\]
    
 - "Performance Prediction for Multi-Application Concurrency on GPUs" \n
    *Diksha Moolchandani*, Sudhanshu Gupta, Anshul Kumar, and Smruti R. Sarangi.  \n
-   IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2020 \[[https://www.youtube.com/watch?v=lBtUKeOHqZs video]\] \[[files/papers/diksha_ispass.pdf Author's Version]\]
+   IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2020 \[[https://www.youtube.com/watch?v=lBtUKeOHqZs video]\] \[[files/papers/diksha_ispass.pdf PDF]\]
 
 - "A Machine to Machine framework for the charging of Electric Autonomous Vehicles" \n 
    Ziyad Elbanna, Ilya Afanasyev, Luiz Jonata, Rasheed Hussain, Mansur Khazeev, Joseph Lamptey, Manuel Mazzara, Swati Megha, *Diksha Moolchandani*, and Dragos Strugar. \n
-   The Workshops of the IEEE  International  Conference  on  Advanced  Information  Networking  and  Applications (WAINA) 2020. Caserta, Italy. \[[files/papers/m2m_aina.pdf Author's Version]\]
+   The Workshops of the IEEE  International  Conference  on  Advanced  Information  Networking  and  Applications (WAINA) 2020. Caserta, Italy. \[[files/papers/m2m_aina.pdf PDF]\]
 
 
 - "F-LaaS: A Control-Flow-Attack Immune License-as-a-Service Model" \n
    Sandeep Kumar, *Diksha Moolchandani*, Takatsugu Ono and Smruti Sarangi. \n
-   IEEE Services Computing Conference (SCC) 2019. Milan, Italy. \[[files/papers/flaas_scc19.pdf Author's Version]\]
+   IEEE Services Computing Conference (SCC) 2019. Milan, Italy. \[[files/papers/flaas_scc19.pdf PDF]\]
 
 == Internships
 - *Scholarship with short stay:  Ph.D. young researcher*    (Sept.-Nov. 2019)\n
