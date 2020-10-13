@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}
+= Student Projects
+
+I have mentored the following student projects during my Ph.D.:
+
+~~~
+{}{table}{TABLENAME}
+*S. No.*  | *Student Name* | *Sem./ Year* | *Topic* | *Project Type* ||
+1  | Ryan Dsouza | Sem 2, 2017-18 | Extended Tejas x86 simulator for SIMD instructions | B.Tech thesis
+ ||
+2 | Dhruv Mishra   | Summer 2018	 | Analyzed MEVBench suite for invariants using Daikon	 | Internship ||
+3   | Rishabh, Parul    | Summer 2018	 | Generic plotting library for Tejas	 | Internship ||
+4 | Sudhanshu Gupta   | Sem 2, 2018-19	 | Characterization of Autonomous Driving Workloads	| B.Tech thesis
+ ||
+5   | Prabhleen Kaur    | Sem 2, 2018-19 | Self-driving simulator in Unity	| M.Tech project
+ ||
+6 | Shivangi Sharma, Ravi Prakash, Goverdhan Mishra   | Summer 2019	 |Simulator for CNN accelerators	 | Internship ||
+7   | Aditya Jain, Sarthak Vishnoi    | Sem 1, 2019-20	 | Tejas-CNN: Simulator for CNN accelerators	 | B.Tech project
+ ||
+8 | Yash Singla, Pranay Singh, Mudit Soni   | Winter 2019	 | Added features to the self-driving simulator	 | Winter project
+ ||
+9   | Aditya Jain, Chinmay Rai   | Sem 2, 2019-20	 | Added multiple dataflows and DRAM module to Tejas-CNN	 | B.Tech project
+ ||
+10   | Kishore Yadav, Yash Malviya, Aniket Kumar    | Sem 2, 2019-20	 | Self-driving simulator with DL algorithms	 | M.Tech project ||
+11 |Kishore Yadav | Sem 1, 2020-21 | Simulator for drones | M.Tech Project
+~~~

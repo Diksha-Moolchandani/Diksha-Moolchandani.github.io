@@ -1,5 +1,7 @@
 # jemdoc: menu{MENU}{index.html}
 = Research Software
 
-- [http://www.cse.iitd.ac.in/tejas/install.html Tejas Power Pack]
-
+- [http://www.cse.iitd.ac.in/tejas/install.html Tejas Power Pack] \n
+Tejas Power Pack is a power model add-on for the [http://www.cse.iitd.ac.in/~srsarangi/files/papers/patmospaper.pdf Tejas] architectural simulator. 
+This software takes a Tejas XML configuration file, and generates an XML file that contains the energy per access information
+for each structure. The tool is bundled with McPAT-v1.0 and Orion-v2.0 for simulating power and energy of cores and NoC respectively.
