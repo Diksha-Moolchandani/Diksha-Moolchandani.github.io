@@ -52,29 +52,4 @@ Contact: diksha \[dot\] moolchandani \[at\] cse \[dot\] iitd \[dot\] ac \[dot\] 
 - Conferences - HPCA 2021, ICPP 2020, HiPC 2020, VDAT 2020, ICCD 2019, EMC^2 2018, IPDPS 2018, ICCD 2017
 - Journals - JSA 2020
 
-=======
-== Talks
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IBM Research's flagship event Maitreyee 2020)
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at ESWEEK CASES 2020)
-- "Performance Prediction for Multi-Application Concurrency on GPUs" (virtually at ISPASS 2020)
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at DAC 2020)
-- "Benchmark Characterization and Optimizations for Path Planning of Drones" at Innopolis University, Russia (Nov. 2019)
-- "Architectural Characterization of Vision Workloads" at Innopolis University, Russia (Sept. 2019)
-- "Architectures for Vision and Image Processing Applications" at PhD Symposium CSE IIT Delhi (Dec. 2017)
-- "Architectures for Vision and Image Processing Applications: Survey and Research Proposal" at IIT Delhi, India (Jun. 2017)
-- "Implementation of FPGA based Communication Network using High Speed PCIe and Multi Gigabit Transceivers" 
-   at National Workshop on Cryptology (NWC), 2014
-- "Implementation of FPGA based Communication Network using High Speed PCIe and Multi Gigabit Transceivers" at BARC Mumbai (Aug. 2014)
-
-== Honors and Awards
-- "Winner of the Technical Blog Competition" at IBM Research's flagship event Maitreyee 2020
-- "Invited to attend the 8th Heidelberg Laureate Forum" at Heidelberg, Germany (virtually in Sept. 2020 & physically in Sept. 2021)
-- "Scholarship with short stay: Ph.D. young researcher" at Innopolis University, Russia (Sept. - Nov. 2019)
-
-
-#== Workshop Papers
-#- *Diksha Moolchandani*, Jayant Sharma, Abhishek Bajpai and Saket Saurav. "FPGA Cluster Based High Throughput Architecture for
-#Cryptography and Cryptanalysis" National Workshop on Cryptology 2014.\n 
-#\[[files/projects/FPGA_based_High_Throughput_architecture_for_cryptography_and_cryptanalysis.pdf Pdf]\]  
-
 
