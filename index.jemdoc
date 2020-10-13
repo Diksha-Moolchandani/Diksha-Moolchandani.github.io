@@ -1,24 +1,17 @@
-# jemdoc: menu{MENU}{example.html}
+# jemdoc: menu{MENU}{index.html}
 = Diksha Moolchandani 
 
 ~~~
-{}{img_left}{pic1.jpg}{alt text}{200px}{200px}{pic1.jpg}
-=== Ph.D. Student, [http://www.iitd.ac.in/ IIT Delhi] \n
-I am a Ph.D. student in [http://www.sit.iitd.ac.in/ SIT department] at IIT Delhi. I am working on novel architectures for vision and image processing 
-under the guidance of [http://www.cse.iitd.ac.in/~srsarangi/ Prof. Smruti Ranjan Sarangi] and [http://www.cse.iitd.ernet.in/~anshul/ Prof. Anshul Kumar]. 
-Before joining Ph.D., I worked as a Project Associate with [http://www.cse.iitd.ernet.in/~kolin/Kolins_Web_Home/My_Home.html Prof. Kolin Paul] 
-and [http://www.cse.iitd.ernet.in/~anshul/ Prof. Anshul Kumar] at IIT Delhi. I completed my Bachelors from [http://www.iiitdmj.ac.in/ IIIT Jabalpur] in 2015, 
-with a majors in [http://ece.iiitdmj.ac.in/index.html Electronics and Communication Engineering]. I did my Bachelors thesis at [http://www.barc.gov.in/ BARC Mumbai], 
-where I was advised by [https://www.linkedin.com/in/abhisheietk/ Mr. Abhishek Bajpai] and [https://www.linkedin.com/in/saket-saurav-18183719/ Mr. Saket Saurav].
-\n\n
-
-Contact me via email: diksha \[dot\] moolchandani \[at\] cse \[dot\] iitd \[dot\] ac \[dot\] in
-\n\n
-Here is my [resume_Diksha.pdf Resume].
+{}{img_left}{pic1.jpg}{150px}{150px}{pic1.jpg}
+Ph.D. Research Scholar \n
+[http://www.sit.iitd.ac.in/ School of Information Technology] \n
+[http://www.iitd.ac.in/ Indian Institute of Technology Delhi], India \n
+Contact: diksha \[dot\] moolchandani \[at\] cse \[dot\] iitd \[dot\] ac \[dot\] in
+\n
 ~~~
 
+= Publications
 
-== Publications
 - "Accelerating CNN Inference on ASICs: A Survey" \n
    *Diksha Moolchandani*, Anshul Kumar, and Smruti R. Sarangi.  \n
    Elsevier Journal of Systems Architecture (JSA) 2020 \[[https://www.sciencedirect.com/science/article/pii/S1383762120301612 link]\]
@@ -27,7 +20,7 @@ Here is my [resume_Diksha.pdf Resume].
 - "VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors" \n
    *Diksha Moolchandani*, Anshul Kumar, José Martínez, Smruti R. Sarangi. \n
    Presented as a poster in DAC 2020 \[[https://www.facebook.com/diksha.moolchandani/videos/2616061841985521 video]\]\[[files/papers/dac_diksha.pdf slides]\] \n
-   Full paper accepted in ESWEEK CASES 2020, and to be published in IEEE International Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2020 \[[files/papers/vissched.pdf pdf]\] 
+   Full paper accepted in ESWEEK CASES 2020, and to be published in IEEE International Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) 2020 \[[files/papers/vissched.pdf pdf]\] \[[https://lnkd.in/gJDPjMA blog]\]
    
 - "Performance Prediction for Multi-Application Concurrency on GPUs" \n
    *Diksha Moolchandani*, Sudhanshu Gupta, Anshul Kumar, and Smruti R. Sarangi.  \n
@@ -42,47 +35,27 @@ Here is my [resume_Diksha.pdf Resume].
    Sandeep Kumar, *Diksha Moolchandani*, Takatsugu Ono and Smruti Sarangi. \n
    IEEE Services Computing Conference (SCC) 2019. Milan, Italy. \[[files/papers/flaas_scc19.pdf pdf]\]
 
-== Internships
-- *Scholarship with short stay:  Ph.D. young researcher*    (Sept.-Nov. 2019)\n
-  /Innopolis University, Republic of Tatarstan, Russia/
 
-- *Project Associate*                                       (Jun.-Dec. 2015)\n
-  /IIT Delhi, India/
-
-- *Project Based Internship*                                (May-Dec. 2014) \n
-  /Bhabha Atomic Research Centre Mumbai (BARC Mumbai, India)/
-
-- *Project Based Internship*                                (May-Jun. 2013) \n
-  /Bhabha Atomic Research Centre Mumbai (BARC Mumbai, India)/
+= Research Interests
+- Computer Architecture for Computer Vision
+- Accelerators
+- ML applications in Computer Architecture
+- Energy-efficient drone architecture and design
 
 
-== Talks
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at ESWEEK CASES 2020)
-- "Performance Prediction for Multi-Application Concurrency on GPUs" (virtually at ISPASS 2020)
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at DAC 2020)
-- "Benchmark Characterization and Optimizations for Path Planning of Drones" at Innopolis University, Russia (Nov. 2019)
-- "Architectural Characterization of Vision Workloads" at Innopolis University, Russia (Sept. 2019)
-- "Architectures for Vision and Image Processing Applications" at PhD Symposium CSE IIT Delhi (Dec. 2017)
-- "Architectures for Vision and Image Processing Applications: Survey and Research Proposal" at IIT Delhi, India (Jun. 2017)
-- "Implementation of FPGA based Communication Network using High Speed PCIe and Multi Gigabit Transceivers" 
-   at National Workshop on Cryptology (NWC), 2014
-- "Implementation of FPGA based Communication Network using High Speed PCIe and Multi Gigabit Transceivers" at BARC Mumbai (Aug. 2014)
+= Education
+- Ph.D, Computer Science, Indian Institute of Technology Delhi, India, 2016 - present
+- B.Tech, Electronics and Communication Engineering, Indian Institute of Information Technology Jabalpur, India, 2011-2015
 
-== Honors and Awards
-- "Invited to attend the 8th Heidelberg Laureate Forum" at Heidelberg, Germany (virtually in Sept. 2020 & physically in Sept. 2021)
-- "Scholarship with short stay: Ph.D. young researcher" at Innopolis University, Russia (Sept. - Nov. 2019)
+
+= Technical Services
+- Conferences - HPCA 2021, ICPP 2020, HiPC 2020, VDAT 2020, ICCD 2019, EMC^2 2018, IPDPS 2018, ICCD 2017
+- Journals - JSA 2020
+
 
 #== Workshop Papers
 #- *Diksha Moolchandani*, Jayant Sharma, Abhishek Bajpai and Saket Saurav. "FPGA Cluster Based High Throughput Architecture for
 #Cryptography and Cryptanalysis" National Workshop on Cryptology 2014.\n 
 #\[[files/projects/FPGA_based_High_Throughput_architecture_for_cryptography_and_cryptanalysis.pdf Pdf]\]  
-
-== Research Software
-- [http://www.cse.iitd.ac.in/tejas/install.html Tejas Power Pack]
-
-== Projects
-- [files/projects/multimedia_array_onFPGA.pdf Super Resolution on Reconfigurable Arrays]
-- [files/projects/FPGA_Cluster.pdf FPGA Cluster based parallel architecture for Cryptanalysis]
-- [files/projects/GROUP-3_design_report.pdf Flood Alert and Rescue System]
 
 
