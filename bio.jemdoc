@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, nodate, notime
 = Biography
 
 Diksha is currently a Ph.D. Research Scholar in the School of Information Technology at Indian Institute of Technology Delhi, India. She is advised by [http://www.cse.iitd.ac.in/~srsarangi/ Dr. Smruti Ranjan Sarangi] and [http://www.cse.iitd.ernet.in/~anshul/ Dr. Anshul Kumar]. Her research interests span the areas of architecture design and acceleration techniques for computer vision and image processing applications, designing convolutional neural network accelerators, and machine learning applications to computer architecture. 

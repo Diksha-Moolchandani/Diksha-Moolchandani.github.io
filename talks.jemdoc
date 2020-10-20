@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, nodate, notime
 = Talks
 
 - "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IBM Research's flagship event Maitreyee 2020)

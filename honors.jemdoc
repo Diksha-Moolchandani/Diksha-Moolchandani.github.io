@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}
+# jemdoc: menu{MENU}{index.html}, nodate, notime
 = Honors and Awards
 
 - "Winner of the Technical Blog Competition" at IBM Research's flagship event Maitreyee 2020
