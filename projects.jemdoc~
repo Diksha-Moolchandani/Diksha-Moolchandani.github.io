@@ -2,7 +2,13 @@
 = Projects
 
 == Research Projects
-- Game Theory-based Parameter-Tuning for Path Planning of UAVs\n
+- *Game Theory-based Parameter-Tuning for Path Planning of UAVs*\n
+In this work, we solve the problem of automatic parameter tuning for path planning of UAVs. 
+Traditionally, this problem has been solved using optimization-based approaches. We propose to 
+learn the constraints of the optimization problem using a multi-layer perceptron model. However, such 
+approaches do not converge if the search space is large and the problem is non-linear. Thus, we propose 
+to convert the optimization problem to a game theory problem, which is significantly faster and can be used at runtime. This work 
+is accepted for publication in the proceedings of the VLSI Design 2021.
 
 - *[https://www.sciencedirect.com/science/article/pii/S1383762120301612 Accelerating CNN inference on ASICs: A Survey]*\n
 As you might have noticed, the field of deep learning is growing very rapidly and these networks are getting computationally intensive with each passing second !! 
@@ -11,12 +17,17 @@ We have written a survey paper on accelerating the inference phase of the convol
 The survey is quite exhaustive and covers all the kinds of optimizations to accelerate these networks. This work will be published in Journal of Systems Architecture (JSA).
 
 - *[files/papers/vissched.pdf VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors]*\n
-In this work, we start by characterizing the vision workloads and identifying their unique phase behavior. Subsequently, we develop an auction-theoretic scheduling scheme for such workloads on a multicore architecture. The scheme exploits the phase behavior of the vision workloads to simplify the scheduling decisions. This research work is comprehensive in the sense that we first characterize the computer vision applications on server-class processors, develop an auction-theoretic scheduling mechanism that is both starvation-free, and provides theoretical optimality guarantees for the corresponding schedules. This work was presented as a poster at DAC 2020,
+In this work, we start by characterizing the vision workloads and identifying their unique phase behavior. Subsequently, we 
+develop an auction-theoretic scheduling scheme for such workloads on a multicore architecture. The scheme exploits the phase 
+behavior of the vision workloads to simplify the scheduling decisions. This research work is comprehensive in the sense that we
+ first characterize the computer vision applications on server-class processors, develop an auction-theoretic scheduling mechanism
+ that is both starvation-free, and provides theoretical optimality guarantees for the corresponding schedules. This work was presented as a poster at DAC 2020,
 as a full paper at ESWEEK CASES 2020, and is published in IEEE TCAD Vol. 39 Issue 11.
 
 - *[files/papers/diksha_ispass.pdf Performance Prediction for Multi-Application Concurrency on GPUs]*\n
 To support the choice of server-class processors (in the previous work) and not any other platform such as GPUs, and FPGAs, 
-we developed a decision tree based performance predictor for multi-application concurrency on GPUs. We clearly establish that GPUs are not the right choice when it comes to scheduling multiple applications concurrently. 
+we developed a decision tree based performance predictor for multi-application concurrency on GPUs. We clearly establish that GPUs are not the right 
+choice when it comes to scheduling multiple applications concurrently. 
 The predictor is able to provide an estimate of how the performance falls with the increasing number of applications. 
 It relies on the CPU execution statistics and the fairness of schedule of the bag-of-task on multicores. This work is published in IEEE ISPASS 2020.
 
@@ -24,12 +35,17 @@ It relies on the CPU execution statistics and the fairness of schedule of the ba
 
 == Past Projects
 - [files/projects/multimedia_array_onFPGA.pdf Super Resolution on Reconfigurable Arrays] \n
-In this work, we implemented a convolutional neural network on a Virtex-6 FPGA to convert an SD video to an HD video in real time. The optimizations included computation time reduction by exploiting inherent parallelism, efficient matrix multiplication by using Toeplitz representation and memory footprint reduction by using a
-rotating buffer instead of a full-size input buffer. We designed a self-defined protocol that exploited the OCP protocol to fetch image data in parallel from four DDR3 banks.
+In this work, we implemented a convolutional neural network on a Virtex-6 FPGA to convert an SD video to an HD video in real time. The 
+optimizations included computation time reduction by exploiting inherent parallelism, efficient matrix multiplication by using Toeplitz 
+representation and memory footprint reduction by using a
+rotating buffer instead of a full-size input buffer. We designed a self-defined protocol that exploited the OCP protocol to fetch image 
+data in parallel from four DDR3 banks.
 
 
 - [files/projects/FPGA_Cluster.pdf FPGA Cluster based parallel architecture for Cryptanalysis] \n 
-In this work, we developed a high-speed communication network, consisting of four Virtex-6 FPGAs that communicated via the MGT protocol. In addition, we developed python and C wrappers for the PCIe bus drivers to implement DMA from Linux Kernel memory to FPGA BRAM space. This work was presented at National Workshop on Cryptology 2014.
+In this work, we developed a high-speed communication network, consisting of four Virtex-6 FPGAs that communicated via the MGT protocol. 
+In addition, we developed python and C wrappers for the PCIe bus drivers to implement DMA from Linux Kernel memory to FPGA BRAM space. 
+This work was presented at National Workshop on Cryptology 2014.
 
 - [files/projects/GROUP-3_design_report.pdf Flood Alert and Rescue System]
 
