@@ -8,7 +8,7 @@ Traditionally, this problem has been solved using optimization-based approaches.
 learn the constraints of the optimization problem using a multi-layer perceptron model. However, such 
 approaches do not converge if the search space is large and the problem is non-linear. Thus, we propose 
 to convert the optimization problem to a game theory problem, which is significantly faster and can be used at runtime. This work 
-is accepted for publication in the proceedings of the VLSI Design 2021.
+is accepted for publication in the proceedings of the International Conference on VLSI Design 2021.
 
 - *[https://www.sciencedirect.com/science/article/pii/S1383762120301612 Accelerating CNN inference on ASICs: A Survey]*\n
 As you might have noticed, the field of deep learning is growing very rapidly and these networks are getting computationally intensive with each passing second !! 
