@@ -1,7 +1,6 @@
 # jemdoc: menu{MENU}{index.html}, nodate, notime
 = Talks
 
-- "Game Theory-based Parameter-Tuning for Path Planning of UAVs" (virtually at VLSI Design 2021)
 - "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IBM Research's flagship event Maitreyee 2020)
 - "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at ESWEEK CASES 2020)
 - "Performance Prediction for Multi-Application Concurrency on GPUs" (virtually at ISPASS 2020)
