@@ -6,23 +6,23 @@ I have been fortunate to mentor multiple student projects during my Ph.D.
 ~~~
 {}{table}{TABLENAME}
 *S. No.*  | *Student Name* | *Sem./ Year* | *Topic* | *Project Type* ||
-1  | Ryan Dsouza | Sem 2, 2017-18 | Extended Tejas x86 simulator for SIMD instructions | B.Tech thesis
+1  | Ryan Dsouza | Sem 2, 2017-18 | Extended Tejas x86 simulator for SIMD instructions | Bachelor's thesis
  ||
 2 | Dhruv Mishra   | Summer 2018	 | Analyzed MEVBench suite for invariants using Daikon	 | Internship ||
 3   | Rishabh, Parul    | Summer 2018	 | Generic plotting library for Tejas	 | Internship ||
-4 | Sudhanshu Gupta   | Sem 2, 2018-19	 | Characterization of autonomous driving Workloads	| B.Tech thesis
+4 | Sudhanshu Gupta   | Sem 2, 2018-19	 | Characterization of autonomous driving workloads	| Bachelor's thesis
  ||
-5   | Prabhleen Kaur    | Sem 2, 2018-19 | Unity based simulator for self-driving cars	| M.Tech project
+5   | Prabhleen Kaur    | Sem 2, 2018-19 | Unity-based simulator for self-driving cars (basic)	| Master's thesis
  ||
 6 | Shivangi Sharma, Ravi Prakash, Goverdhan Mishra   | Summer 2019	 |Tejas-CNN: Simulator for CNN accelerators (basic impl.)	 | Internship ||
-7   | Aditya Jain, Sarthak Vishnoi    | Sem 1, 2019-20	 | Tejas-CNN: Simulator for CNN accelerators 	 | B.Tech project
+7   | Aditya Jain, Sarthak Vishnoi    | Sem 1, 2019-20	 | Tejas-CNN: Simulator for CNN accelerators 	 | Bachelor's thesis
  ||
-8 | Yash Singla, Pranay Singh, Mudit Soni   | Winter 2019	 | Added features to the self-driving simulator	 | Winter project
+8 | Yash Singla, Pranay Singh, Mudit Soni   | Winter 2019	 | Added scenes and features to our self-driving simulator	 | Winter project
  ||
-9   | Aditya Jain, Chinmay Rai   | Sem 2, 2019-20	 | Added multiple dataflows and DRAM module to Tejas-CNN	 | B.Tech project
+9   | Aditya Jain, Chinmay Rai   | Sem 2, 2019-20	 | Added multiple dataflows and DRAM module to Tejas-CNN	 | Bachelor's thesis
  ||
-10   | Kishore Yadav, Yash Malviya, Aniket Kumar    | Sem 2, 2019-20	 | Self-driving simulator with DL algorithms	 | M.Tech project ||
-11 |Kishore Yadav | Sem 1, 2020-21 | Unity-based simulator for drones | M.Tech Project ||
-12 |Mohammad Atif, Satyam Jay | Sem 2, 2020-21 | Self-driving simulator - Autonomous level 4 | M.Tech Project ||
-13 |Kishore Yadav | Sem 2, 2020-21 | Unity-based simulator for drones -  Path Planning for drone swarms | M.Tech Project
+10   | Kishore Yadav, Yash Malviya, Aniket Kumar    | Sem 2, 2019-20	 | Self-driving simulator - detection, tracking, localization	 | M.Tech project ||
+11 |Kishore Yadav | Sem 1, 2020-21 | Unity-based simulator for drones | Master's thesis ||
+12 |Mohammad Atif, Satyam Jay | Sem 2, 2020-21 | Self-driving simulator - lane change, braking, and steering | Master's thesis ||
+13 |Kishore Yadav | Sem 2, 2020-21 | Added path planning for drone swarms to the drone simulator | Master's thesis
 ~~~
