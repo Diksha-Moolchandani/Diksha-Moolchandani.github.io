@@ -1,11 +1,11 @@
 # jemdoc: menu{MENU}{index.html}, nodate, notime
 = Talks
-
-- "Game Theory-based Parameter-Tuning for Path Planning of UAVs" (virtually at VLSI Design 2021)
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IBM Research's flagship event Maitreyee 2020)
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at ESWEEK CASES 2020)
-- "Performance Prediction for Multi-Application Concurrency on GPUs" (virtually at ISPASS 2020)
-- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at DAC 2020)
+- "VisSched: An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IMEC Belgium, July 2021)
+- "Game Theory-based Parameter-Tuning for Path Planning of UAVs" (virtually at VLSI Design, Feb. 2021)
+- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IBM Research's flagship event Maitreyee, Oct. 2020)
+- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at ESWEEK CASES, Sep. 2020)
+- "Performance Prediction for Multi-Application Concurrency on GPUs" (virtually at ISPASS, Aug. 2020)
+- "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at DAC, July 2020)
 - "Benchmark Characterization and Optimizations for Path Planning of Drones" at Innopolis University, Russia (Nov. 2019)
 - "Architectural Characterization of Vision Workloads" at Innopolis University, Russia (Sept. 2019)
 - "Architectures for Vision and Image Processing Applications" at PhD Symposium CSE IIT Delhi (Dec. 2017)
