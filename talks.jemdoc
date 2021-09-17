@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, nodate, notime
 = Talks
 
+- "VisSched: An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at AMD India, Sept. 2021)
 - "VisSched: An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IMEC Belgium, July 2021)
 - "Game Theory-based Parameter-Tuning for Path Planning of UAVs" (virtually at VLSI Design, Feb. 2021)
 - "VisSched:  An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at IBM Research's flagship event Maitreyee, Oct. 2020)
