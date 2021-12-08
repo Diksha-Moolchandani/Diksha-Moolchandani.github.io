@@ -1,6 +1,7 @@
 # jemdoc: menu{MENU}{index.html}, nodate, notime
 = Talks
 
+- "Scheduling and Characterization of Computer Vision Workloads on Heterogeneous Systems" (virtually at DAC Ph.D. Forum, Dec. 2021)
 - "Game Theory-based Parameter-Tuning for Path Planning of UAVs" (virtually at IBM Research's flagship event Maitreyee, Sept. 2021)
 - "VisSched: An Auction-based Scheduler for Vision Workloads on Heterogeneous Processors" (virtually at AMD Bangalore, Sept. 2021)
 - "Accelerating CNN Inference on ASICs: A Survey" (virtually at Qualcomm Hyderabad, Sept. 2021)
