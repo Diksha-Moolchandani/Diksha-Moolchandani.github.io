@@ -31,13 +31,24 @@
 </div>
 <h2>Research Projects</h2>
 <ul>
+<li><p><b><a href="">Performance and Power Prediction for Concurrent Execution on GPUs</a></b><br />
+This is an extension of the work published in ISPASS 2020. In this work, we develop a performance and power predictor for concurrent execution on GPUs. We do not rely on cumbersome GPU profiling and instead rely on only the statistics of standalone applications on CPUs. In addition, we use the performance and power of the standalone applications on the GPUs as one of the features. To quantify the contention at the shared resources, we use a fairness metric. We do not calculate the fairness metric for every possible bag of applications, instead we rely on three fairness values for each application obtained with respect to three representative microbenchmarks. One fairness value is chosen at runtime depending on the memory behavior of the other applications that run concurrently. This work is accepted to be published in the proceedings of ACM Transactions on Architecture and Code Optimization (TACO), 2022.</p>
+</li>
+</ul>
+<ul>
+<li><p><b><a href="https://openaccess.thecvf.com/content/WACV2022/papers/Moolchandani_PredStereo_An_Accurate_Real-Time_Stereo_Vision_System_WACV_2022_paper.pdf">PredStereo: An Accurate Real-time Stereo Vision System</a></b><br />
+In this work, we characterize the accuracy of both traditional and CNN-based stereo vision algorithms and show that the tilt towards the CNN-based stereo algorithms is unjustified. Especially for a self-driving scenario where the vehicle is expected to be highly accurate, we cannot rely on just one class of algorithms. We show that an ensemble-based system that chooses between these algorithms at runtime is the need of the hour. In this work, we develop such a system that operates in real-time. This work 
+is published in the proceedings of IEEE Winter Conference on Applications of Computer Vision (WACV), 2022.</p>
+</li>
+</ul>
+<ul>
 <li><p><b><a href="files/papers/drone.pdf">Game Theory-based Parameter-Tuning for Path Planning of UAVs</a></b><br />
 In this work, we solve the problem of automatic parameter tuning for path planning of UAVs. 
 Traditionally, this problem has been solved using optimization-based approaches. We propose to 
 learn the constraints of the optimization problem using a multi-layer perceptron model. However, such 
 approaches do not converge if the search space is large and the problem is non-linear. Thus, we propose 
 to convert the optimization problem to a game theory problem, which is significantly faster and can be used at runtime. This work 
-is accepted for publication in the proceedings of the International Conference on VLSI Design 2021.</p>
+is published in the proceedings of IEEE International Conference on VLSI Design 2021.</p>
 </li>
 </ul>
 <ul>
@@ -45,7 +56,7 @@ is accepted for publication in the proceedings of the International Conference o
 As you might have noticed, the field of deep learning is growing very rapidly and these networks are getting computationally intensive with each passing second !! 
 With the end of Dennard scaling and Moore's law, not much can be done in the processor space. Thus, custom hardware architectures are emerging to the rescue. 
 We have written a survey paper on accelerating the inference phase of the convolutional neural networks on the custom hardware. 
-The survey is quite exhaustive and covers all the kinds of optimizations to accelerate these networks. This work will be published in Journal of Systems Architecture (JSA).</p>
+The survey is quite exhaustive and covers all the kinds of optimizations to accelerate these networks. This work is published in Journal of Systems Architecture (JSA) Vol. 113, Feb. 2021.</p>
 </li>
 </ul>
 <ul>
@@ -60,11 +71,11 @@ as a full paper at ESWEEK CASES 2020, and is published in IEEE TCAD Vol. 39 Issu
 </ul>
 <ul>
 <li><p><b><a href="files/papers/diksha_ispass.pdf">Performance Prediction for Multi-Application Concurrency on GPUs</a></b><br />
-To support the choice of server-class processors (in the previous work) and not any other platform such as GPUs, and FPGAs, 
-we developed a decision tree based performance predictor for multi-application concurrency on GPUs. We clearly establish that GPUs are not the right 
+In this work,
+we developed a decision tree-based performance predictor for multi-application concurrency on GPUs. We clearly establish that GPUs are not the right 
 choice when it comes to scheduling multiple applications concurrently. 
 The predictor is able to provide an estimate of how the performance falls with the increasing number of applications. 
-It relies on the CPU execution statistics and the fairness of schedule of the bag-of-task on multicores. This work is published in IEEE ISPASS 2020.</p>
+It relies on the CPU execution statistics and the fairness of schedule of the bag-of-tasks on multicores. This work is published in IEEE ISPASS 2020.</p>
 </li>
 </ul>
 <h2>Past Projects</h2>
