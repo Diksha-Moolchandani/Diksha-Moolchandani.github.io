@@ -11,6 +11,10 @@ Contact: diksha \[dot\] moolchandani \[at\] imec \[dot\] be
 
 = Publications
 
+- "Hardware-Assisted Mechanisms to Enforce Control Flow Integrity: A Comprehensive Survey" \n
+   Sandeep Kumar, *Diksha Moolchandani*, and Smruti R. Sarangi.  \n
+   Elsevier Journal of Systems Architecture (JSA), 2022 (accepted)
+
 - "Performance and Power Prediction for Concurrent Execution on GPUs" \n
    *Diksha Moolchandani*, Anshul Kumar, and Smruti R. Sarangi.  \n
    ACM Transactions on Architecture and Code Optimization (TACO), 2022 \[[https://dl.acm.org/doi/abs/10.1145/3522712 link]\]
