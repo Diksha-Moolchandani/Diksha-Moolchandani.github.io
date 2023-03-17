@@ -6,10 +6,15 @@
 Researcher (Full-time) \n
 [https://www.imec.be/nl imec], Leuven, Belgium \n
 Contact: diksha \[dot\] moolchandani \[at\] imec \[dot\] be
+Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?profile=diksha-moolchandani Forbes 30U30] 2023 Europe
 \n
 ~~~
 
 = Publications
+- "AMPeD: An Analytical Model for Performance in Distributed Training of Transformers" \n
+   *Diksha Moolchandani*, Joyjit Kundu, Frederik Ruelens, Peter Vrancx, Timon Evenblij, and Manu Perumkunnil. \n
+   IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2023  \[[files/papers/amped.pdf pdf]\]
+
 - "Game Theory-based Parameter Tuning for Energy-efficient Path Planning on Modern UAVs" \n
    *Diksha Moolchandani*, Kishore Yadav, Geesara Kulathunga, Ilya Afanasyev, Anshul Kumar, Manuel Mazzara, and Smruti R. Sarangi.  \n
    ACM Transactions on Cyber-Physical Systems, Oct. 2022 \[[https://dl.acm.org/doi/abs/10.1145/3565270 link]\]
@@ -85,6 +90,7 @@ Contact: diksha \[dot\] moolchandani \[at\] imec \[dot\] be
 
 = Technical Services
 
+- Artifact Evaluation Committee, [https://sites.google.com/stanford.edu/asplos23aec/committee ASPLOS 2023]
 - Reviewer for ICCD 2021, ICPP 2021, HPCA 2021, ICPP 2020, HiPC 2020, VDAT 2020, ICCD 2019, EMC^2 2018, IPDPS 2018, ICCD 2017
 - PC member [https://nir.innopolis.university/ Nonlinearity, Information, and Robotics 2021]
 
