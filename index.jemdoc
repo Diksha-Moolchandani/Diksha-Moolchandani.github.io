@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{pic2.jpg}{150px}{150px}{pic2.jpg}
-Researcher (Full-time) \n
+Senior Researcher (Full-time) \n
 [https://www.imec.be/nl imec], Leuven, Belgium \n
 Contact: diksha \[dot\] moolchandani \[at\] imec \[dot\] be \n
 Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?profile=diksha-moolchandani Forbes 30U30] 2023 Europe
@@ -11,21 +11,25 @@ Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?p
 ~~~
 
 = Publications
+- "Multi-level Analysis of GPU Utilization in ML Training Workloads" \n
+   Paul Delestrac, Debjyoti Bhattacharjee, Simei Yang, *Diksha Moolchandani*, Francky Catthoor, Lionel Torres, and David Novo. \n
+   Design, Automation and Test in Europe Conference (DATE) 2024
+
 - "AMPeD: An Analytical Model for Performance in Distributed Training of Transformers" \n
    *Diksha Moolchandani*, Joyjit Kundu, Frederik Ruelens, Peter Vrancx, Timon Evenblij, and Manu Perumkunnil. \n
-   IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2023 \[[files/papers/ispass_amped.pdf pdf]\]
+   IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS) 2023 \[[files/papers/ispass_amped.pdf pdf]\] \[[https://github.com/CSA-infra/AMPeD code]\]
 
 - "Game Theory-based Parameter Tuning for Energy-efficient Path Planning on Modern UAVs" \n
    *Diksha Moolchandani*, Kishore Yadav, Geesara Kulathunga, Ilya Afanasyev, Anshul Kumar, Manuel Mazzara, and Smruti R. Sarangi.  \n
-   ACM Transactions on Cyber-Physical Systems, Oct. 2022 \[[https://dl.acm.org/doi/abs/10.1145/3565270 link]\]
+   ACM Transactions on Cyber-Physical Systems, Oct. 2022 \[[files/papers/tcps-drone-game-theory.pdf pdf]\]
 
 - "Performance and Power Prediction for Concurrent Execution on GPUs" \n
    *Diksha Moolchandani*, Anshul Kumar, and Smruti R. Sarangi.  \n
-   ACM Transactions on Architecture and Code Optimization (TACO), Sept. 2022, Vol. 19, Issue 3 \[[https://dl.acm.org/doi/abs/10.1145/3522712 link]\]
+   ACM Transactions on Architecture and Code Optimization (TACO), Sept. 2022, Vol. 19, Issue 3 \[[files/papers/tacopred22.pdf pdf]\]
 
 - "Hardware-Assisted Mechanisms to Enforce Control Flow Integrity: A Comprehensive Survey" \n
    Sandeep Kumar, *Diksha Moolchandani*, and Smruti R. Sarangi.  \n
-   Elsevier Journal of Systems Architecture (JSA), Sept. 2022, Vol. 130 \[[https://www.sciencedirect.com/science/article/pii/S1383762122001643 link]\]
+   Elsevier Journal of Systems Architecture (JSA), Sept. 2022, Vol. 130 \[[files/papers/jsa_secureexec-survey.pdf pdf]\]
 
 - "PredStereo: An Accurate Real-time Stereo Vision System" \n
    *Diksha Moolchandani*, Nivedita Shrivastava, Anshul Kumar, and Smruti R. Sarangi. \n
@@ -38,7 +42,7 @@ Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?p
 
 - "Accelerating CNN Inference on ASICs: A Survey" \n
    *Diksha Moolchandani*, Anshul Kumar, and Smruti R. Sarangi.  \n
-   Elsevier Journal of Systems Architecture (JSA), Feb. 2021, Vol. 113 \[[https://www.sciencedirect.com/science/article/pii/S1383762120301612 link]\] \[[https://csciitd-my.sharepoint.com/:p:/g/personal/anz158482_iitd_ac_in/Ec4MpSFURQxGoIcJopUhXloBDv4z7g3JCpwjnm5URIc_iA?e=dDBGaq slides]\]
+   Elsevier Journal of Systems Architecture (JSA), Feb. 2021, Vol. 113 \[[files/papers/cnn-survey.pdf pre-proof]\] \[[https://csciitd-my.sharepoint.com/:p:/g/personal/anz158482_iitd_ac_in/Ec4MpSFURQxGoIcJopUhXloBDv4z7g3JCpwjnm5URIc_iA?e=dDBGaq slides]\]
 
 
 - "VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors" \n
@@ -80,7 +84,7 @@ Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?p
 - Accelerators
 - ML applications in Computer Architecture
 - Energy-efficient drone architecture and design
-- Performance Modeling
+- Performance Modeling and Analysis
 
 
 = Education
