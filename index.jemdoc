@@ -11,9 +11,13 @@ Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?p
 ~~~
 
 = Publications
+- "Analyzing GPU Energy Consumption in Data Movement and Storage" \n
+   Paul Delestrac, Jonathan Miquel, Debjyoti Bhattacharjee, *Diksha Moolchandani*, Francky Catthoor, Lionel Torres, and David Novo. \n
+   IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP) 2024
+
 - "Multi-level Analysis of GPU Utilization in ML Training Workloads" \n
    Paul Delestrac, Debjyoti Bhattacharjee, Simei Yang, *Diksha Moolchandani*, Francky Catthoor, Lionel Torres, and David Novo. \n
-   Design, Automation and Test in Europe Conference (DATE) 2024
+   Design, Automation and Test in Europe Conference (DATE) 2024 \[[https://hal.umontpellier.fr/hal-04523554v1/document pdf]\]
 
 - "AMPeD: An Analytical Model for Performance in Distributed Training of Transformers" \n
    *Diksha Moolchandani*, Joyjit Kundu, Frederik Ruelens, Peter Vrancx, Timon Evenblij, and Manu Perumkunnil. \n
@@ -42,7 +46,7 @@ Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?p
 
 - "Accelerating CNN Inference on ASICs: A Survey" \n
    *Diksha Moolchandani*, Anshul Kumar, and Smruti R. Sarangi.  \n
-   Elsevier Journal of Systems Architecture (JSA), Feb. 2021, Vol. 113 \[[files/papers/cnn-survey.pdf pre-proof]\] \[[https://csciitd-my.sharepoint.com/:p:/g/personal/anz158482_iitd_ac_in/Ec4MpSFURQxGoIcJopUhXloBDv4z7g3JCpwjnm5URIc_iA?e=dDBGaq slides]\]
+   Elsevier Journal of Systems Architecture (JSA), Feb. 2021, Vol. 113 \[[files/papers/cnn-survey.pdf pre-proof]\] 
 
 
 - "VisSched: An Auction based Scheduler for Vision Workloads on Heterogeneous Processors" \n
@@ -94,6 +98,7 @@ Featured in [https://www.forbes.com/30-under-30/2023/europe/science-healthcare?p
 
 = Technical Services
 
+- PC member MLArchSys 2024
 - PC member MLArchSys+ASSYST 2023
 - Artifact Evaluation Committee, [https://sites.google.com/stanford.edu/asplos23aec/committee ASPLOS 2023]
 - Reviewer for ICCD 2021, ICPP 2021, HPCA 2021, ICPP 2020, HiPC 2020, VDAT 2020, ICCD 2019, EMC^2 2018, IPDPS 2018, ICCD 2017
